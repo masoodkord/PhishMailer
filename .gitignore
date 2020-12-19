@@ -1,2 +1,2 @@
-__pycache__
-*.pyc
+chmod +x PhisMailer.py
+Python3 PishMailer.py
